@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-Using JavaScript, HTML and APIs to map Earthquake data
+Using JavaScript, HTML, and APIs to map Earthquake data
 
 Please see the ![Earthquake_Challenge](https://github.com/JonathanBrown003/Mapping_Earthquakes/tree/main/Earthquake_Challenge) folder to view the HTML, JavaScript, and css files. 
 
